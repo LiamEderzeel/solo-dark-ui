@@ -1,11 +1,13 @@
 {
-  "name": "ui-theme-template",
+  "name": "solo-dark-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "I make this theme with the goal to make the most simplistic but functional",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+	"dark",
+	"simple"
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",

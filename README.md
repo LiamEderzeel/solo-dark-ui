@@ -1,6 +1,6 @@
 ![](http://liamederzeel.com/media/solo.png)
 
-# solo-dark-syntax theme
+# solo-dark-ui theme
 
 A dark and simple theme I made during my stay in Korea.
 
